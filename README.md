@@ -41,8 +41,8 @@
       width="40"
       heigth="40"
     />
-          <img
-      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png"
+               <img
+      src="https://img.icons8.com/color/480/redux.png"
       title="Redux"
       width="40"
       heigth="40"
