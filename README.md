@@ -9,3 +9,51 @@
 <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:5fa3d09e-ee40-30f3-99da-34ca3f31de21"> Mi CV </a>
 <a href=""> Mi Portafolio </a>
 </div>
+
+---
+ <div>
+    <img
+      src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
+      title="JavaScript"
+      width="40"
+      heigth="40"
+    />
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/919/919827.png"
+      title="HTML"
+      width="40"
+      heigth="40"
+    />
+       <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"
+      title="CSS"
+      width="40"
+      heigth="40"
+    />
+        <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"
+      title="React"
+      width="40"
+      heigth="40"
+    />
+         <img
+      src="https://img2.freepng.es/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"
+      title="Node"
+      width="40"
+      heigth="40"
+    />
+          <img
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png"
+      title="Redux"
+      width="40"
+      heigth="40"
+    />
+           <img
+      src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png"
+      title="PostgresSQL"
+      width="40"
+      heigth="40"
+    />
+  </div>
+
+</div>
