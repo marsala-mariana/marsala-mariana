@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="www.linkedin.com/in/marianamarsala"> Linkedin </a>
-<a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f70d35f8-862b-3ebf-a6ef-0b7c1c7769cd"> Mi CV </a>
+<a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:461ac1fc-ea87-394f-9794-d0d9c89049b1"> Mi CV </a>
 <a href=""> Mi Portafolio </a>
 
   <h1>  Tecnologías </h1>
