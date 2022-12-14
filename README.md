@@ -11,7 +11,9 @@
 </div>
 
 ---
- <div>
+ <div align="center">
+  <h1> 🔨 Tecnologías </h1>
+  <div>
     <img
       src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
       title="JavaScript"
@@ -55,5 +57,4 @@
       heigth="40"
     />
   </div>
-
 </div>
