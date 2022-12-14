@@ -8,11 +8,8 @@
 <a href="www.linkedin.com/in/marianamarsala"> Linkedin </a>
 <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f70d35f8-862b-3ebf-a6ef-0b7c1c7769cd"> Mi CV </a>
 <a href=""> Mi Portafolio </a>
-</div>
 
----
- <div align="center">
-  <h1> 🔨 Tecnologías </h1>
+  <h1>  Tecnologías </h1>
   <div>
     <img
       src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
