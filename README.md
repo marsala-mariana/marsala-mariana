@@ -21,7 +21,7 @@
       heigth="40"
     />
     <img
-      src="https://cdn-icons-png.flaticon.com/512/919/919827.png"
+      src="https://img2.freepng.es/20181212/cvz/kisspng-html5-computer-icons-logo-image-vector-graphics-5c10a6d685c3d5.4014481815445951585479.jpg"
       title="HTML"
       width="40"
       heigth="40"
