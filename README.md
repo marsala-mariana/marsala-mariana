@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://marianamarsalamiportafolio.netlify.app/"> Portafolio </a>
+<a href="https://marianamarsala.vercel.app/"> Portafolio </a>
 
 
  
