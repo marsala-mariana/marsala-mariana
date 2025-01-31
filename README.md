@@ -1,22 +1,20 @@
-<div align="center">
-  
-  <h1 align="center">👋 Mariana Stephanie Marsala 👋</h1>
-  <h3 align="center"> Desarrolladora de Software Front-End | Diseñadora </h3>
-</div>
+#  Mariana Stephanie Marsala 
 
-<div align="center">
-<a href="https://marianamarsala.vercel.app/"> Portafolio </a>
-</div>
-
-<br/>
-<br/>
-<br/>
-<div align="center" >
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marsala-mariana&theme=radical&hide_border=falso&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+**Front-End Developer | UX/UI Designer**  
 
 
-</div>
+## 👩‍💻 About Me
+
+I am a Front-End Developer with a strong focus on creating intuitive, high-performance interfaces. I specialize in transforming ideas into engaging digital experiences, with solid expertise in both development and UX/UI design. My goal is to create products that are not only functional but also visually stunning and easy to use.
+
+With a passion for Front-End development, I focus on code optimization, component reusability, and building scalable, maintainable applications.
+
+## 🛠 Skills
+
+- **Front-End Development**: React, React Native, Next.js, TypeScript  
+- **UX/UI Design**: User research, interactive prototypes, wireframes, responsive design  
+- **Project Management**: Git, GitHub, Scrum, Trello  
+
 
 
 
